@@ -3,6 +3,12 @@
     "target": {
         "namespace": "android_app",
         "package_name": "com.br.tobuythemonth.applinktest",
-        "sha256_cert_fingerprints": ["CD:CC:3E:67:5C:65:FA:0F:69:77:A4:EB:5C:6F:33:F2:C7:0E:CA:BF:1A:B9:EC:7A:F4:1D:DE:56:E1:80:BC:BA"]
+        "sha256_cert_fingerprints": ["2C:5A:40:63:CD:A4:D4:DB:42:C7:88:62:A7:93:C3:59:7B:C6:A7:67:34:77:00:65:D4:B5:E3:47:6E:C2:46:FC"]
+    },
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "com.br.tobuythemonth.applinktest",
+        "sha256_cert_fingerprints": ["2C:5A:40:63:CD:A4:D4:DB:42:C7:88:62:A7:93:C3:59:7B:C6:A7:67:34:77:00:65:D4:B5:E3:47:6E:C2:46:FC"]
     }
 }]
